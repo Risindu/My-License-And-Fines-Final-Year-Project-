@@ -1,0 +1,16 @@
+.new{
+    display: flex;
+
+   &__Container{
+    flex: 20;
+
+   }
+   &__edit{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+   margin-left: -25%;
+   margin-right: 25%;
+}
+}
